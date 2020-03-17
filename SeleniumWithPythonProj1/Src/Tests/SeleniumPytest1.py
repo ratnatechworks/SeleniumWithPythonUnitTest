@@ -122,3 +122,6 @@ if __name__ == '__main__':
     #import sys  
     #import os
     #sys.path.append(os.path.join(os.path.dirname(__file__), "..", ".."))
+
+    #Junit runner https://softwaretester.info/junit-report-with-python-webdriver/
+    #Great Python examples https://www.techbeamers.com/selenium-python-test-suite-unittest/
