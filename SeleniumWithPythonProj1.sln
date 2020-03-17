@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SeleniumWithPythonProj1", "SeleniumWithPythonProj1\SeleniumWithPythonProj1.pyproj", "{F25ACA01-97A7-4422-885A-1C76DA74C4D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F25ACA01-97A7-4422-885A-1C76DA74C4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25ACA01-97A7-4422-885A-1C76DA74C4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40CF9EBD-0EC6-459A-BF73-ADED7915AD17}
+	EndGlobalSection
+EndGlobal
